@@ -15,6 +15,7 @@
 		6D8DF00E2511B1DD00A502B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D8DF00C2511B1DD00A502B8 /* LaunchScreen.storyboard */; };
 		6D8DF0192511B1DD00A502B8 /* SwiftUI_DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D8DF0182511B1DD00A502B8 /* SwiftUI_DemoTests.swift */; };
 		6D8DF0242511B1DD00A502B8 /* SwiftUI_DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D8DF0232511B1DD00A502B8 /* SwiftUI_DemoUITests.swift */; };
+		BDFAC442BB0A39A2429B3CFD /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = BDFAC5B5845EA3181571A8C1 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6D8DF01F2511B1DD00A502B8 /* SwiftUI-DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-DemoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D8DF0232511B1DD00A502B8 /* SwiftUI_DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_DemoUITests.swift; sourceTree = "<group>"; };
 		6D8DF0252511B1DD00A502B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDFAC5B5845EA3181571A8C1 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				6D8DF0172511B1DD00A502B8 /* SwiftUI-DemoTests */,
 				6D8DF0222511B1DD00A502B8 /* SwiftUI-DemoUITests */,
 				6D8DEFFF2511B1DB00A502B8 /* Products */,
+				BDFAC5B5845EA3181571A8C1 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -243,6 +246,7 @@
 				6D8DF00E2511B1DD00A502B8 /* LaunchScreen.storyboard in Resources */,
 				6D8DF00B2511B1DD00A502B8 /* Preview Assets.xcassets in Resources */,
 				6D8DF0082511B1DD00A502B8 /* Assets.xcassets in Resources */,
+				BDFAC442BB0A39A2429B3CFD /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
